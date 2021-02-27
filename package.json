@@ -1,8 +1,8 @@
 {
-  "name": "@hapi/catbox-redis",
+  "name": "@healthline/catbox-redis",
   "description": "Redis adapter for catbox",
-  "version": "0.0.1",
-  "repository": "git://github.com/hapijs/catbox-redis",
+  "version": "0.0.2",
+  "repository": "git://github.com/healthline/catbox-redis",
   "engines": {
     "node": ">=10.0.0"
   },
